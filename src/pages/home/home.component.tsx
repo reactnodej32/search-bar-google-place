@@ -18,6 +18,7 @@ export default Home;
 //       //ChIJsXxpOlWLwokRd1zxj6dDblU
 //       params: {
 //         place_id: "ChIJsXxpOlWLwokRd1zxj6dDblU",
+////         Don't be to happy here this key doesn't work ):
 //         key: "AIzaSyC-SQdWlu_csXhg9jZJRHwSue7AtNYAyxU",
 //         language: "en",
 //       },
